@@ -1,0 +1,10 @@
+ABC12XYZ# opening:95.752, lowest:77.1, highest:101.255, closing:77.1
+ABC13XYZ# opening:99.19, lowest:77.1, highest:99.19, closing:77.1
+1BC13XYZ# opening:0.19, lowest:0.19, highest:77.1, closing:77.1
+ABC23XYZ# opening:0, lowest:0, highest:0, closing:0
+ABC43XYZ# opening:12.45, lowest:12.45, highest:12.45, closing:12.45
+dacrob# opening:99, lowest:66, highest:99, closing:66
+ertuwedf# opening:0, lowest:0, highest:0, closing:0
+we# opening:0, lowest:0, highest:0, closing:0
+sder# opening:0, lowest:0, highest:0, closing:0
+wer# opening:12345678, lowest:12345678, highest:21345967, closing:21345967

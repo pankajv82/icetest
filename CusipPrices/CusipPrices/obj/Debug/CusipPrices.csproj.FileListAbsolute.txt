@@ -1,0 +1,6 @@
+E:\icetest\CusipPrices\CusipPrices\bin\Debug\CusipPrices.exe.config
+E:\icetest\CusipPrices\CusipPrices\bin\Debug\CusipPrices.exe
+E:\icetest\CusipPrices\CusipPrices\bin\Debug\CusipPrices.pdb
+E:\icetest\CusipPrices\CusipPrices\obj\Debug\CusipPrices.csprojResolveAssemblyReference.cache
+E:\icetest\CusipPrices\CusipPrices\obj\Debug\CusipPrices.exe
+E:\icetest\CusipPrices\CusipPrices\obj\Debug\CusipPrices.pdb
