@@ -1,0 +1,6 @@
+E:\ice\IceAppMergeFiles\IceAppMergeFiles\bin\Debug\IceAppMergeFiles.exe.config
+E:\ice\IceAppMergeFiles\IceAppMergeFiles\bin\Debug\IceAppMergeFiles.exe
+E:\ice\IceAppMergeFiles\IceAppMergeFiles\bin\Debug\IceAppMergeFiles.pdb
+E:\ice\IceAppMergeFiles\IceAppMergeFiles\obj\Debug\IceAppMergeFiles.exe
+E:\ice\IceAppMergeFiles\IceAppMergeFiles\obj\Debug\IceAppMergeFiles.pdb
+E:\ice\IceAppMergeFiles\IceAppMergeFiles\obj\Debug\IceAppMergeFiles.csprojResolveAssemblyReference.cache
